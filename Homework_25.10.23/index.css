@@ -1,0 +1,60 @@
+#I{
+    font-size: 50px;
+    font-family: "broken sunday";
+    left: 100px;
+}
+
+#love{
+    font-size: 100px;
+    font-family: "broken sunday";
+    text-shadow: -25px -20px 7px rgb(150, 58, 236);
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+}
+
+#it{
+    font-size: 50px;
+    font-family: "broken sunday";
+    line-height: 50px;
+    text-decoration: dashed;
+    text-decoration: overline;
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+}
+
+#very{
+    color: rgb(79, 68, 243);
+    font-size: 50px;
+    font-family: "broken sunday";
+    line-height: 50px;
+    letter-spacing: 5px;
+    position: relative;
+    left: 300px;
+    bottom: 100px;
+}
+
+.much{
+    font-size: 40px;
+    font-family: "broken sunday";
+    line-height: 50px;
+    text-align: middle;
+    letter-spacing: 2px;
+    position: relative;
+    left: 400px;
+    bottom: 100px;
+}
+
+.much:nth-child(1){
+    color: red;
+}
+.much:nth-child(2){
+    color: rgb(20, 175, 14);
+}
+.much:nth-child(3){
+    color: rgb(255, 252, 49);
+}
+.much:nth-child(4){
+    color: rgb(63, 50, 240);
+}
